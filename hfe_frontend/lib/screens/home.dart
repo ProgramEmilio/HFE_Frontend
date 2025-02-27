@@ -21,7 +21,7 @@ class HomeScreen extends StatelessWidget {
               decoration: InputDecoration(border: OutlineInputBorder(),
               labelText: 'Apellidos(s)'),
             ),
-            SizedBox(height: 10),
+            SizedBox(height: 11),
             ElevatedButton(onPressed: () {}, child: Text("Holiwis")),
           ],
         ),
